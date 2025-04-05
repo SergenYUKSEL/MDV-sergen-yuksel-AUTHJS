@@ -52,19 +52,13 @@ Vous devrez activer la double Authentification avant de pouvoir consulter la lis
 
 ### Installation
 
-1. Cloner le dépôt
-```
-git clone https://github.com/votre-utilisateur/CiveLampus.git
-cd CiveLampus
-```
-
-2. Installer les dépendances du backend
+1. Installer les dépendances du backend
 ```
 cd backend
 npm install
 ```
 
-3. Installer les dépendances du frontend
+2. Installer les dépendances du frontend
 ```
 cd ../frontend
 npm install
